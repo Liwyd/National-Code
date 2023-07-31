@@ -1,4 +1,4 @@
-code = str(input('[Enter]: '))
+code = input('[Enter]: ')
 flag = 10
 sum = 0
 for i in code[:-1]:
