@@ -2,7 +2,7 @@ code = input('[Enter]: ')
 flag = 10
 sum = 0
 for i in code[:-1]:
-    sum += int(int(i)*flag)
+    sum += int(i)*flag
     flag -= 1
 
 if sum%11 >= 2:
