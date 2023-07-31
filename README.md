@@ -6,5 +6,3 @@
 A simple algorithm to ensure the correctness of the Iranian-national-code
 ```
 
-
-
